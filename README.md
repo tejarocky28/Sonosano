@@ -17,5 +17,7 @@ After lots discussions with several veteran contributors of Soulseek, This app i
 4. Sharing files will be the core feature of the app
 5. Top 50 Listings will be cached
 
+If you are related to soulseek network or are an experienced contributor contact here - https://discord.gg/Np7YYEVPhR or email at - kr[5]hh@proton.me
+
 
 This project was made with Electron(💔) and Pynicotine 
