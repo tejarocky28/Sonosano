@@ -15,6 +15,7 @@ After lots discussions with several veteran contributors of Soulseek, This app i
 2. No streaming, no opt out for sharing files, deleting any files will be met with penalties such as harsh rate limits
 3. The app won't have any social aspect of soulseek
 4. Sharing files will be the core feature of the app
+5. Top 50 Listings will be cached
 
 
 This project was made with Electron(💔) and Pynicotine 
